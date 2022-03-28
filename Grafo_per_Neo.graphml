@@ -1,0 +1,436 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key attr.name="id" attr.type="string" for="edge" id="d1"/>
+<key attr.name="depth" attr.type="long" for="edge" id="d0"/>
+<graph edgedefault="directed"><node id="american"/>
+<node id="teenage"/>
+<node id="girl"/>
+<node id="visiting"/>
+<node id="child"/>
+<node id="africa"/>
+<node id="citizens"/>
+<node id="residents"/>
+<node id="United"/>
+<node id="States"/>
+<node id="America"/>
+<node id="young"/>
+<node id="person"/>
+<node id="between"/>
+<node id="13"/>
+<node id="19"/>
+<node id="years"/>
+<node id="old"/>
+<node id="female"/>
+<node id="human"/>
+<node id="None"/>
+<node id="family"/>
+<node id="African"/>
+<node id="studies"/>
+<node id="academic"/>
+<node id="journal"/>
+<node id="association"/>
+<node id="sovereign"/>
+<node id="asteroid"/>
+<node id="painter"/>
+<node id="band"/>
+<node id="year"/>
+<node id="song"/>
+<node id="dictionary"/>
+<node id="total"/>
+<node id="persons"/>
+<node id="inhabitants"/>
+<node id="football"/>
+<node id="club"/>
+<node id="Sheffield,"/>
+<node id="England"/>
+<node id="state"/>
+<node id="North"/>
+<node id="France"/>
+<node id="(1609-1667)"/>
+<node id="adult"/>
+<node id="world"/>
+<node id="population"/>
+<node id="humans"/>
+<node id="related"/>
+<node id="birth,"/>
+<node id="marriage,"/>
+<node id="adoption,"/>
+<node id="civil"/>
+<node id="union,"/>
+<node id="similar"/>
+<node id="legal"/>
+<node id="status,"/>
+<node id="present"/>
+<node id="ascendants"/>
+<node id="continent"/>
+<node id="staff"/>
+<node id="adolescent"/>
+<node id="daughter"/>
+<node id="lady"/>
+<node id="schoolgirl"/>
+<node id="teenager"/>
+<node id="juvenile"/>
+<node id="kid"/>
+<node id="minor"/>
+<node id="offspring"/>
+<node id="youngster"/>
+<node id="woman"/>
+<node id="looking"/>
+<node id="cell"/>
+<node id="phone"/>
+<edge source="american" target="teenage">
+  <data key="d0">1</data>
+  <data key="d1">teenage</data>
+</edge>
+<edge source="american" target="citizens">
+  <data key="d0">2</data>
+  <data key="d1">citizens</data>
+</edge>
+<edge source="teenage" target="girl">
+  <data key="d0">1</data>
+  <data key="d1">girl</data>
+</edge>
+<edge source="teenage" target="young">
+  <data key="d0">2</data>
+  <data key="d1">young</data>
+</edge>
+<edge source="girl" target="visiting">
+  <data key="d0">1</data>
+  <data key="d1">visiting</data>
+</edge>
+<edge source="girl" target="young">
+  <data key="d0">2</data>
+  <data key="d1">young</data>
+</edge>
+<edge source="girl" target="adolescent">
+  <data key="d0">1</data>
+  <data key="d1">adolescent</data>
+</edge>
+<edge source="girl" target="daughter">
+  <data key="d0">1</data>
+  <data key="d1">daughter</data>
+</edge>
+<edge source="girl" target="lady">
+  <data key="d0">1</data>
+  <data key="d1">lady</data>
+</edge>
+<edge source="girl" target="schoolgirl">
+  <data key="d0">1</data>
+  <data key="d1">schoolgirl</data>
+</edge>
+<edge source="girl" target="teenager">
+  <data key="d0">1</data>
+  <data key="d1">teenager</data>
+</edge>
+<edge source="visiting" target="child">
+  <data key="d0">1</data>
+  <data key="d1">child</data>
+</edge>
+<edge source="visiting" target="None">
+  <data key="d0">2</data>
+  <data key="d1">None</data>
+</edge>
+<edge source="child" target="africa">
+  <data key="d0">1</data>
+  <data key="d1">africa</data>
+</edge>
+<edge source="child" target="family">
+  <data key="d0">2</data>
+  <data key="d1">family</data>
+</edge>
+<edge source="child" target="juvenile">
+  <data key="d0">1</data>
+  <data key="d1">juvenile</data>
+</edge>
+<edge source="child" target="kid">
+  <data key="d0">1</data>
+  <data key="d1">kid</data>
+</edge>
+<edge source="child" target="minor">
+  <data key="d0">1</data>
+  <data key="d1">minor</data>
+</edge>
+<edge source="child" target="offspring">
+  <data key="d0">1</data>
+  <data key="d1">offspring</data>
+</edge>
+<edge source="child" target="youngster">
+  <data key="d0">1</data>
+  <data key="d1">youngster</data>
+</edge>
+<edge source="child" target="cell">
+  <data key="d0">1</data>
+  <data key="d1">cell</data>
+</edge>
+<edge source="africa" target="African">
+  <data key="d0">2</data>
+  <data key="d1">African</data>
+</edge>
+<edge source="africa" target="woman">
+  <data key="d0">1</data>
+  <data key="d1">woman</data>
+</edge>
+<edge source="citizens" target="residents">
+  <data key="d0">3</data>
+  <data key="d1">residents</data>
+</edge>
+<edge source="citizens" target="None">
+  <data key="d0">3</data>
+  <data key="d1">None</data>
+</edge>
+<edge source="residents" target="United">
+  <data key="d0">3</data>
+  <data key="d1">United</data>
+</edge>
+<edge source="residents" target="None">
+  <data key="d0">3</data>
+  <data key="d1">None</data>
+</edge>
+<edge source="United" target="States">
+  <data key="d0">3</data>
+  <data key="d1">States</data>
+</edge>
+<edge source="United" target="association">
+  <data key="d0">3</data>
+  <data key="d1">association</data>
+</edge>
+<edge source="States" target="America">
+  <data key="d0">3</data>
+  <data key="d1">America</data>
+</edge>
+<edge source="States" target="citizens">
+  <data key="d0">3</data>
+  <data key="d1">citizens</data>
+</edge>
+<edge source="America" target="sovereign">
+  <data key="d0">3</data>
+  <data key="d1">sovereign</data>
+</edge>
+<edge source="young" target="person">
+  <data key="d0">2</data>
+  <data key="d1">person</data>
+</edge>
+<edge source="young" target="female">
+  <data key="d0">2</data>
+  <data key="d1">female</data>
+</edge>
+<edge source="young" target="asteroid">
+  <data key="d0">3</data>
+  <data key="d1">asteroid</data>
+</edge>
+<edge source="person" target="between">
+  <data key="d0">2</data>
+  <data key="d1">between</data>
+</edge>
+<edge source="person" target="painter">
+  <data key="d0">3</data>
+  <data key="d1">painter</data>
+</edge>
+<edge source="between" target="13">
+  <data key="d0">2</data>
+  <data key="d1">13</data>
+</edge>
+<edge source="between" target="band">
+  <data key="d0">3</data>
+  <data key="d1">band</data>
+</edge>
+<edge source="13" target="19">
+  <data key="d0">2</data>
+  <data key="d1">19</data>
+</edge>
+<edge source="13" target="year">
+  <data key="d0">3</data>
+  <data key="d1">year</data>
+</edge>
+<edge source="19" target="years">
+  <data key="d0">2</data>
+  <data key="d1">years</data>
+</edge>
+<edge source="19" target="year">
+  <data key="d0">3</data>
+  <data key="d1">year</data>
+</edge>
+<edge source="years" target="old">
+  <data key="d0">2</data>
+  <data key="d1">old</data>
+</edge>
+<edge source="years" target="song">
+  <data key="d0">3</data>
+  <data key="d1">song</data>
+</edge>
+<edge source="old" target="dictionary">
+  <data key="d0">3</data>
+  <data key="d1">dictionary</data>
+</edge>
+<edge source="female" target="human">
+  <data key="d0">2</data>
+  <data key="d1">human</data>
+</edge>
+<edge source="female" target="female">
+  <data key="d0">3</data>
+  <data key="d1">female</data>
+</edge>
+<edge source="female" target="adult">
+  <data key="d0">3</data>
+  <data key="d1">adult</data>
+</edge>
+<edge source="human" target="total">
+  <data key="d0">3</data>
+  <data key="d1">total</data>
+</edge>
+<edge source="None" target="None">
+  <data key="d0">3</data>
+  <data key="d1">None</data>
+</edge>
+<edge source="family" target="persons">
+  <data key="d0">3</data>
+  <data key="d1">persons</data>
+</edge>
+<edge source="African" target="studies">
+  <data key="d0">2</data>
+  <data key="d1">studies</data>
+</edge>
+<edge source="African" target="inhabitants">
+  <data key="d0">3</data>
+  <data key="d1">inhabitants</data>
+</edge>
+<edge source="African" target="continent">
+  <data key="d0">3</data>
+  <data key="d1">continent</data>
+</edge>
+<edge source="studies" target="academic">
+  <data key="d0">2</data>
+  <data key="d1">academic</data>
+</edge>
+<edge source="studies" target="journal">
+  <data key="d0">3</data>
+  <data key="d1">journal</data>
+</edge>
+<edge source="academic" target="journal">
+  <data key="d0">2</data>
+  <data key="d1">journal</data>
+</edge>
+<edge source="academic" target="academic">
+  <data key="d0">3</data>
+  <data key="d1">academic</data>
+</edge>
+<edge source="academic" target="staff">
+  <data key="d0">3</data>
+  <data key="d1">staff</data>
+</edge>
+<edge source="journal" target="journal">
+  <data key="d0">3</data>
+  <data key="d1">journal</data>
+</edge>
+<edge source="association" target="football">
+  <data key="d0">3</data>
+  <data key="d1">football</data>
+</edge>
+<edge source="sovereign" target="state">
+  <data key="d0">3</data>
+  <data key="d1">state</data>
+</edge>
+<edge source="painter" target="France">
+  <data key="d0">3</data>
+  <data key="d1">France</data>
+</edge>
+<edge source="total" target="world">
+  <data key="d0">3</data>
+  <data key="d1">world</data>
+</edge>
+<edge source="persons" target="related">
+  <data key="d0">3</data>
+  <data key="d1">related</data>
+</edge>
+<edge source="inhabitants" target="ascendants">
+  <data key="d0">3</data>
+  <data key="d1">ascendants</data>
+</edge>
+<edge source="football" target="club">
+  <data key="d0">3</data>
+  <data key="d1">club</data>
+</edge>
+<edge source="club" target="Sheffield,">
+  <data key="d0">3</data>
+  <data key="d1">Sheffield,</data>
+</edge>
+<edge source="Sheffield," target="England">
+  <data key="d0">3</data>
+  <data key="d1">England</data>
+</edge>
+<edge source="state" target="North">
+  <data key="d0">3</data>
+  <data key="d1">North</data>
+</edge>
+<edge source="North" target="America">
+  <data key="d0">3</data>
+  <data key="d1">America</data>
+</edge>
+<edge source="France" target="(1609-1667)">
+  <data key="d0">3</data>
+  <data key="d1">(1609-1667)</data>
+</edge>
+<edge source="adult" target="human">
+  <data key="d0">3</data>
+  <data key="d1">human</data>
+</edge>
+<edge source="world" target="population">
+  <data key="d0">3</data>
+  <data key="d1">population</data>
+</edge>
+<edge source="population" target="humans">
+  <data key="d0">3</data>
+  <data key="d1">humans</data>
+</edge>
+<edge source="related" target="birth,">
+  <data key="d0">3</data>
+  <data key="d1">birth,</data>
+</edge>
+<edge source="birth," target="marriage,">
+  <data key="d0">3</data>
+  <data key="d1">marriage,</data>
+</edge>
+<edge source="marriage," target="adoption,">
+  <data key="d0">3</data>
+  <data key="d1">adoption,</data>
+</edge>
+<edge source="adoption," target="civil">
+  <data key="d0">3</data>
+  <data key="d1">civil</data>
+</edge>
+<edge source="civil" target="union,">
+  <data key="d0">3</data>
+  <data key="d1">union,</data>
+</edge>
+<edge source="union," target="similar">
+  <data key="d0">3</data>
+  <data key="d1">similar</data>
+</edge>
+<edge source="similar" target="legal">
+  <data key="d0">3</data>
+  <data key="d1">legal</data>
+</edge>
+<edge source="legal" target="status,">
+  <data key="d0">3</data>
+  <data key="d1">status,</data>
+</edge>
+<edge source="status," target="present">
+  <data key="d0">3</data>
+  <data key="d1">present</data>
+</edge>
+<edge source="present" target="family">
+  <data key="d0">3</data>
+  <data key="d1">family</data>
+</edge>
+<edge source="ascendants" target="African">
+  <data key="d0">3</data>
+  <data key="d1">African</data>
+</edge>
+<edge source="looking" target="child">
+  <data key="d0">1</data>
+  <data key="d1">child</data>
+</edge>
+<edge source="cell" target="phone">
+  <data key="d0">1</data>
+  <data key="d1">phone</data>
+</edge>
+</graph></graphml>
