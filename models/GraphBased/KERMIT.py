@@ -37,7 +37,7 @@ class ImageEncoder(nn.Module):
         x1 = F.relu(self.fc2(x1))
         
         #text embedding
-        x2 = text.squeeze(dim=1)  
+        x2 = text.squeeze(dim=0)  
         
         #graph embedding
         x3 = graph
