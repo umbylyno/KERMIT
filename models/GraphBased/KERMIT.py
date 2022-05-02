@@ -23,8 +23,8 @@ class ImageEncoder(nn.Module):
         self.fc3 = nn.Linear(768 + 768 + 768, 1300)
         self.fc4 = nn.Linear(1300, 700)
         self.fc5 = nn.Linear(700, 250)
-        self.fc6 = nn.Linear(250, 10)
-        self.fc7 = nn.Linear(10, 1)
+        self.fc6 = nn.Linear(250, 50)
+        self.fc7 = nn.Linear(50, 1)
 
         #dropout layer
         self.dropout = nn.Dropout(0.3)
