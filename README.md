@@ -22,6 +22,8 @@ Image Captioning system to describe what is in the image.<br>
 <h2> Knowledge 🌍 </h2>
 I created a system for extracting knowledge from the text of a meme using wikidata. 
 
+![Knowledge graph System!](/images/KGPipeline_Catchy.png "Knowledge Graph")
+
 <h2> Graph-Based System 🚀 </h2>
 The graph-based system architecture is as shown in the image. 
 
