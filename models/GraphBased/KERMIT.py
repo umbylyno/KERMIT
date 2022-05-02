@@ -1,3 +1,6 @@
+import torch, torchvision
+from torch import nn
+
 class ImageEncoder(nn.Module):
     def __init__(self, **kwargs):
         super(ImageEncoder, self).__init__()
