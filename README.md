@@ -1,5 +1,9 @@
 <h1> KERMIT - Hateful Meme Recognition <img src='https://media1.giphy.com/media/7Xtdpym8IzRj0u2HXc/giphy.gif?cid=790b76117cbbcf29e1036577d30c5ca11ccc0b66aa08cc5a&rid=giphy.gif&ct=s' width="30"> </h1>
-  
+
+<p align="center">
+  <img src="/images/logo/facebook_cover_photo_2.png" />
+</p>
+
 Hello, everyone 🤚🏻!
 
 This is a project based on Meta AI's Hateful Meme detection challenge. <br>
