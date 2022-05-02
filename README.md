@@ -7,6 +7,8 @@ The goal is to correctly classify memes that are offensive from those that are n
 
 To do this, I built a neural network <img src='https://www.onlygfx.com/wp-content/uploads/2021/09/brain-clipart.png' width="20"> that can take in images, text and knowledge extracted from a meme. 
 
+![Graph-Based System!](/images/ArchAltoLivello.png "Architecture")
+
 If you want to know more, read on. 
 
 <h2> Step One. Images. </h2>
