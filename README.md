@@ -4,7 +4,7 @@
   <img src="/images/logo/facebook_cover_photo_2.png" />
 </p>
 
-Hello, everyone 🤚🏻!
+Hello, everyone 👋🏻!
 
 This is a project based on Meta AI's Hateful Meme detection challenge. <br>
 The goal is to correctly classify memes that are offensive from those that are not. 
