@@ -2,7 +2,7 @@ import torch, torchvision
 from torch import nn
 with: {predizione.item()} confidence'
 
-class ImageEncoder(nn.Module):
+class KERMIT(nn.Module):
     def __init__(self, **kwargs):
         super(ImageEncoder, self).__init__()
         
